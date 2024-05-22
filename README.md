@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Shah</h1>
-<h3 align="center">A passionate Machine learning developer</h3>
+<h3 align="center"></h3>
 
 - 💬 Ask me about **Machine Learning and Tensorflow.**
 
