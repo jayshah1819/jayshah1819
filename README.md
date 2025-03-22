@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Shah</h1>
 <h3 align="center"></h3>
 
-- 💬 Ask me about **Machine Learning and Tensorflow.**
-
 - 📫 How to reach me **jayshah00018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
