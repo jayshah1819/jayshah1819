@@ -7,9 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jayshah018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayshah018/" height="30" width="40" /></a>
 </p>
-### ⚡ Recent GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayshah1819&theme=github-compact)
 
 
 
