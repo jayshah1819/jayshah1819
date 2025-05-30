@@ -28,7 +28,6 @@
 - **Tools & DevOps:** GitHub Actions, Jenkins, Docker, RabbitMQ, JUnit, Postman, Selenium
 
 ---
-
 ### 🔨 Notable Projects
 
 - 🔹 **AI Fitness App** – Spring Boot-based app with Keycloak & Gemini API for personalized fitness recommendations.  
@@ -36,7 +35,6 @@
 - 🔹 **E-Commerce Platform** – Real-time inventory & checkout pipeline tested with RestAssured and GitHub Actions.
 
 👉 View more at [jay.com](https://jay-github-io.vercel.app/)
-
 ---
 
 ### 👥 Open Source Contributions
