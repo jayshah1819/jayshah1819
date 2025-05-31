@@ -48,7 +48,10 @@
 
 I'm open to internship/full-time opportunities in backend development or cloud engineering!
 
-📧 jayshah.jk.jk18@gmail.com | 📞 (937)-414-7823  
-🔗 [LinkedIn](https://linkedin.com/in/jayshah018) • [GitHub](https://github.com/jayshah1819)
+### 📧 jayshah.jk.jk18@gmail.com | 
+
+📞 (937)-414-7823  
+🔗 [LinkedIn](https://linkedin.com/in/jayshah018) 
+• [GitHub](https://github.com/jayshah1819)
 
 ---
