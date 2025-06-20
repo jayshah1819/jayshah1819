@@ -12,17 +12,13 @@
 
 ### 💡 About Me
 
-🚀 I'm a Master's student in Computer Science at the University of Dayton, passionate about backend engineering, RESTful web services, and scalable microservices.
-
-🔧 I love building reliable, performant systems using **Java**, **Spring Boot**, **Kafka**, and **Docker** — and I enjoy contributing to open-source projects.
-
-🎯 Currently focused on crafting robust APIs, exploring cloud infrastructure (AWS/GCP), and continuous learning through hands-on projects.
+🚀 I'm a Master's student in Computer Science at the University of Dayton, passionate about backend engineering.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, C/C++
+- **Languages:** Rust, Java, Python, C/C++
 - **Frameworks:** Spring Boot, Django, Node.js
 - **Cloud & DBs:** AWS, PostgreSQL, MongoDB, MySQL, H2
 - **Tools & DevOps:** GitHub Actions, Jenkins, Docker, RabbitMQ, JUnit, Postman, Selenium
@@ -30,12 +26,9 @@
 ---
 ### 🔨 Notable Projects
 
-- 🔹 **AI Fitness App** – Spring Boot-based app with Keycloak & Gemini API for personalized fitness recommendations.  
-- 🔹 **Train Booking System** – Kafka + Spring Boot microservices with secure auth and fallback mechanisms.  
 - 🔹 **E-Commerce Platform** – Real-time inventory & checkout pipeline tested with RestAssured and GitHub Actions.
 
-👉 View more at [jay.com](https://jay-github-io.vercel.app/)
----
+
 
 ### 👥 Open Source Contributions
 
