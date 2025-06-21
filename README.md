@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Shah</h1>
-<h3 align="center">Aspiring Java Backend Developer | Spring Boot Enthusiast | Open Source Contributor</h3>
+<h3 align="center"> Backend Developer  | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://jay-github-io.vercel.app/" target="_blank">🌐  jay.com</a> • 
