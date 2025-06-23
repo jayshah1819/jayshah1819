@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:**  Rust, Java, C/C++, Python, Go, TypeScript, JavaScript‬
-- **Frameworks & Libraries:** Spring Boot, React.js, Actix, Tokio, Django, Flask, Node.js‬
+- **Frameworks & Libraries:** Spring Boot, React.js, Tokio, Actix, Django, Flask, Node.js‬
 ‭
 - **Cloud & DBs:** AWS, PostgreSQL, MongoDB, MySQL, H2
 - **Tools & DevOps:** GitHub Actions, Jenkins, Docker, RabbitMQ, JUnit, Postman, Selenium
