@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 
-🚀 I'm a Master's student in Computer Science at the University of Dayton, passionate about backend engineering.
+🚀 I'm a Master's student in Computer Science at the University of Dayton, passionate about backend engineering and release management. I enjoy building scalable systems and streamlining deployment processes to ensure reliable and efficient software delivery.
 
 ---
 
@@ -23,7 +23,8 @@
 ‭
 - **Cloud & DBs:** AWS, PostgreSQL, MongoDB, MySQL, H2
 - **Tools & DevOps:** GitHub Actions, Jenkins, Docker, RabbitMQ, JUnit, Postman, Selenium
-
+‭ -**eCommerce / CRM Platforms:**‬‭ Salesforce Commerce Cloud‬‭ (SFCC), Business Manager, Salesforce DX, SiteGenesis, SFRA ‬
+‭
 ---
 ### 🔨 Notable Projects
 
