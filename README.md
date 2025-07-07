@@ -23,7 +23,7 @@
 ‭
 - **Cloud & DBs:** AWS, PostgreSQL, MongoDB, MySQL, H2
 - **Tools & DevOps:** GitHub Actions, Jenkins, Docker, RabbitMQ, JUnit, Postman, Selenium
-‭ -**eCommerce / CRM Platforms:**‬‭ Salesforce Commerce Cloud‬‭ (SFCC), Business Manager, Salesforce DX, SiteGenesis, SFRA ‬
+- **eCommerce / CRM Platforms:**‬‭ Salesforce Commerce Cloud‬‭ (SFCC), Business Manager, Salesforce DX, SiteGenesis, SFRA ‬
 ‭
 ---
 ### 🔨 Notable Projects
