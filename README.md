@@ -41,7 +41,7 @@
 
 ### 📬 Let's Connect
 
-I'm open to internship/full-time opportunities in backend development or cloud engineering!
+I'm open to internship/full-time opportunities.
 
 ### 📧 jayshah.jk.jk18@gmail.com | 
 
