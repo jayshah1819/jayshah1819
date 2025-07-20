@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Shah</h1>
+[<h1 align="center">Hi 👋, I'm Jay Shah</h1>](https://readme-typing-svg.demolab.com/demo/?color=1DF76E&lines=Hi+%F0%9F%91%8B%2C+I'm+Jay+Shah)
 <h3 align="center"> Software Developer  | Open Source Contributor</h3>
 
 <p align="center">
