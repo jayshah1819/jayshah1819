@@ -48,7 +48,6 @@ I'm open to internship/full-time opportunities.
 
 ### 📧 jayshah.jk.jk18@gmail.com | 
 
-📞 (937)-414-7823  
 🔗 [LinkedIn](https://linkedin.com/in/jayshah018) 
 • [GitHub](https://github.com/jayshah1819)
 
