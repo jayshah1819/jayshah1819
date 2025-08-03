@@ -20,6 +20,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 Languages: C++, CUDA C, Python, Rust, Java
 
 GPU & AI Frameworks: CUDA, cuBLAS, cuDNN, TensorRT, ONNX, PyTorch, NumPy
@@ -30,9 +31,11 @@ Model Optimisation: TensorRT INT8/FP16 conversion, ONNX export, dynamic shapes
 
 Platforms: NVIDIA Jetson, x86_64 + NVIDIA GPUs
 ‭
----
-#
 
+
+
+
+---
 
 ### 📧 jayshah.jk.jk18@gmail.com | 
 
