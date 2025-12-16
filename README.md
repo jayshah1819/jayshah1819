@@ -15,22 +15,18 @@
 
 ### 💡 About Me
 
-🚀 I'm a Master's student in Computer Science at the University of Dayton, deeply focused on GPU programming, high-performance computing, and model optimisation. I enjoy working with CUDA and TensorRT to accelerate deep learning inference and optimize workloads for modern hardware.
+Dedicated computer science graduate seeking to apply expertise in GPU programming and high-performance
+computing to design and optimize compute primitives, improve system architectures, and deliver efficient,
+scalable solutions for complex workloads.
 
 ---
 
 ### 🛠️ Tech Stack
-
-Languages: C++, CUDA C, Python, Rust, Java
-
-GPU & AI Frameworks: CUDA, cuBLAS, cuDNN, TensorRT, ONNX, PyTorch, NumPy
-
-Dev Tools: Nsight Compute, GitHub Actions, CMake, Docker
-
-Model Optimisation: TensorRT INT8/FP16 conversion, ONNX export, dynamic shapes
-
-Platforms: NVIDIA Jetson, x86_64 + NVIDIA GPUs
-‭
+Programming Languages: C++, Java, Python, WGSL, JavaScript
+GPU & High-Performance Computing: CUDA, Triton, WebGPU, GPU kernel optimization
+Machine Learning Frameworks: PyTorch, TensorRT
+Cloud & DevOps: AWS (EC2, S3), CI/CD pipelines (GitHub Actions)
+Tools & Libraries: cuBLAS, cuDNN, profiling tools (Nsight, WebGPU profiler), Docker, Git‭
 
 
 
