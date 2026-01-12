@@ -13,21 +13,6 @@
 
 ---
 
-### 💡 About Me
-
-Dedicated computer science graduate seeking to apply expertise in GPU programming and high-performance
-computing to design and optimize compute primitives, improve system architectures, and deliver efficient,
-scalable solutions for complex workloads.
-
----
-
-### 🛠️ Tech Stack
-Programming Languages: C++, Java, Python, WGSL, JavaScript
-GPU & High-Performance Computing: CUDA, Triton, WebGPU, GPU kernel optimization
-Machine Learning Frameworks: PyTorch, TensorRT
-Cloud & DevOps: AWS (EC2, S3), CI/CD pipelines (GitHub Actions)
-Tools & Libraries: cuBLAS, cuDNN, profiling tools (Nsight, WebGPU profiler), Docker, Git‭
-
 
 
 
