@@ -5,7 +5,6 @@
 <h3 align="center"> Software Developer  | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://jay-github-io.vercel.app/" target="_blank">🌐  jay.com</a> • 
   <a href="mailto:jayshah.jk.jk18@gmail.com">📫 Email</a> • 
   <a href="https://linkedin.com/in/jayshah018" target="_blank">💼 LinkedIn</a> • 
   <a href="https://github.com/jayshah1819" target="_blank">🐙 GitHub</a>
