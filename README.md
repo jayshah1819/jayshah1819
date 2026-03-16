@@ -4,11 +4,10 @@
 
 <h3 align="center"> Software Developer  | Open Source Contributor</h3>
 
-### jayshah.jk.jk18@gmail.com | 
-
  [LinkedIn](https://linkedin.com/in/jayshah018) 
  [GitHub](https://github.com/jayshah1819)
  [Website](https://jayshah1819.github.io/index.html)
+ [Email](https://jayshah1819.github.io/index.html)
 
 
 ---
